@@ -1,0 +1,559 @@
+         School_name rating deviation  num_games 
+1     A&M-Corpus Chris   826.68   191.53    28 
+2            Adams St.   937.66   312.97     1 
+3            Air Force   1289.43   173.95    30 
+4                Akron   1542.71   175.83    31 
+5      Ala.-Huntsville   671.96   259.13     2 
+6              Alabama   1326.98   163.70    32 
+7          Alabama A&M   542.80   197.14    30 
+8          Alabama St.   567.05   192.56    31 
+9      Alas. Anchorage   1122.42   225.89     3 
+10               Albany   1279.20   175.05    33 
+11      Albertus Magnus   785.01   294.13     1 
+12               Alcorn   525.09   198.79    34 
+13               Alice    949.47   294.47     1 
+14              Allen	    762.26   297.55     1 
+15        Allen	28	12	    787.34   293.83     1 
+16             American   710.72   183.58    29 
+17             Anderson   1227.37   295.90     1 
+18      Appalachian St.   1030.16   175.40    30 
+19              Arcadia   777.64   295.15     1 
+20              Arizona   1404.89   164.05    32 
+21             Arizona    1043.49   282.42     2 
+22          Arizona St.   1227.62   169.03    33 
+23      Ark.-Pine Bluff   1065.06   181.74    29 
+24             Arkansas   1262.74   163.53    31 
+25         Arkansas St.   995.83   169.31    30 
+26           Arlington    931.24   310.87     2 
+27                 Army   1002.81   170.41    31 
+28    Aub.-Montgomery	    684.71   313.05     1 
+29               Auburn   752.17   177.06    31 
+30          Austin Peay   739.27   177.85    30 
+31                 Ave    1050.53   294.47     1 
+32                  BYU   1187.69   188.29    31 
+33           BYU-Hawaii   815.38   291.02     1 
+34             Ball St.   1104.98   172.81    30 
+35      Barber-Scotia	    744.67   300.65     1 
+36               Baylor   1305.12   174.66    31 
+37              Belmont   1492.08   193.03    30 
+38          Benedictine   706.58   308.28     1 
+39 Benedictine-Sprngfld	    657.76   295.66     2 
+40              Berea	    652.20   260.13     2 
+41               Bethel   920.48   305.43     1 
+42      Bethune-Cookman   915.29   164.99    33 
+43           Binghamton   326.52   231.19    29 
+44                Blue    909.11   303.01     1 
+45           Bluefield    1026.48   291.43     1 
+46            Boise St.   1438.29   163.20    31 
+47       Boston College   1287.43   166.07    33 
+48            Boston U.   1184.30   179.71    28 
+49        Bowling Green   1055.01   157.59    31 
+50              Bradley   1001.22   164.30    31 
+51            Brescia	    877.13   293.30     1 
+52              Brevard   566.81   245.25     3 
+53             Brewton    913.10   302.01     1 
+54                Brown   1087.49   158.52    28 
+55               Bryant   932.36   162.76    29 
+56             Bucknell   1403.60   190.51    32 
+57              Buffalo   1139.60   153.77    34 
+58               Butler   1497.24   155.85    33 
+59                 CCNY   818.63   290.82     1 
+60      CSU Bakersfield   1170.92   191.52    29 
+61                Cairn   883.54   294.47     1 
+62                 Cal    1042.85   295.63     3 
+63             Cal Poly   1208.49   165.50    30 
+64     Cal St. East Bay   837.79   290.23     1 
+65    Cal St. Fullerton   775.03   177.27    32 
+66   Cal St. Northridge   828.76   173.96    30 
+67           California   1388.36   186.84    31 
+68              Cameron   871.62   292.46     1 
+69             Campbell   777.84   162.02    31 
+70             Canisius   924.97   171.92    31 
+71              Carroll   661.41   304.42     2 
+72            Centenary   662.51   269.97     2 
+73             Central    1007.93   281.67     6 
+74         Central Ark.   870.39   179.94    29 
+75    Central Conn. St.   900.21   157.93    30 
+76        Central Mich.   794.26   174.43    31 
+77          Chadron St.   837.79   290.23     1 
+78            Chaminade   911.47   241.69     4 
+79            Champion    795.00   281.36     3 
+80       Charleston So.   1064.47   151.73    30 
+81            Charlotte   1251.75   163.85    31 
+82          Chattanooga   799.68   166.96    32 
+83              Cheyney   699.00   309.91     1 
+84          Chicago St.   1018.02   173.00    32 
+85           Cincinnati   1411.37   159.33    33 
+86          Cincinnati    1031.13   259.33     2 
+87              Citadel   662.12   172.45    30 
+88              Clemson   890.43   176.95    31 
+89        Cleveland St.   922.11   166.71    31 
+90             Coastal    963.11   292.53     1 
+91        Coastal Caro.   860.81   155.73    28 
+92                Coker   808.04   291.59     1 
+93                Col.    1056.72   295.53     1 
+94   Col. of Charleston   1229.88   160.28    33 
+95         Colby-Sawyer   741.64   301.21     1 
+96              Colgate   732.43   172.13    30 
+97             Colorado   1308.68   163.62    31 
+98         Colorado St.   1466.32   163.46    32 
+99             Columbia   820.92   160.10    28 
+100    Concordia Chicago   782.48   294.47     1 
+101          Connecticut   1334.85   170.77    29 
+102           Coppin St.   633.49   174.38    31 
+103             Corban	    938.18   313.22     1 
+104              Cornell   783.02   159.11    31 
+105             Covenant   837.79   290.23     1 
+106            Creighton   1527.11   152.74    33 
+107           Crowley's    1053.32   294.94     2 
+108                Crown   837.79   290.23     1 
+109    Culver-Stockton	    801.89   292.16     1 
+110              Dakota    1060.40   296.20     1 
+111              Dallas    1011.03   275.24     2 
+112       Daniel Webster   834.20   290.25     1 
+113            Dartmouth   959.68   160.52    28 
+114             Davidson   1542.09   186.40    32 
+115               Dayton   1177.76   170.90    31 
+116               DePaul   825.75   191.61    31 
+117             Delaware   1086.93   172.80    33 
+118         Delaware St.   824.82   160.63    33 
+119               Denver   1446.03   199.07    29 
+120              Detroit   1213.78   172.34    31 
+121            Dillard	    867.15   291.89     1 
+122       Dist. Columbia   671.64   242.54     3 
+123            Dominican   740.16   295.90     2 
+124                Drake   1221.89   156.77    32 
+125               Drexel   824.01   168.51    30 
+126                 Duke   1446.89   187.45    31 
+127             Duquesne   726.88   201.36    29 
+128        East Carolina   1197.28   172.84    30 
+129       East Tenn. St.   750.60   173.26    32 
+130              Eastern   837.79   290.23     1 
+131         Eastern Ill.   858.44   166.89    31 
+132          Eastern Ky.   1069.95   164.96    32 
+133        Eastern Mich.   989.52   154.52    33 
+134         Eastern N.M.   822.54   280.86     2 
+135        Eastern Wash.   788.13   172.61    31 
+136           Ecclesia	    714.58   306.60     1 
+137              Edward    921.75   290.31     2 
+138                 Elon   1055.96   173.43    31 
+139               Eureka   582.04   263.86     2 
+140           Evansville   1241.27   173.19    32 
+141                 FGCU   1289.94   161.95    33 
+142                  FIU   1116.70   164.05    32 
+143            Fairfield   976.59   154.57    34 
+144  Fairleigh Dickinson   427.89   195.04    30 
+145         Fairmont St.   860.35   291.18     1 
+146             Fisher	    592.24   281.11     3 
+147                 Fisk   750.51   299.58     1 
+148                Fla.    888.74   275.49     2 
+149        Fla. Atlantic   857.87   175.06    32 
+150              Florida   1452.15   153.88    33 
+151          Florida A&M   601.82   186.89    30 
+152          Florida St.   1318.84   164.71    32 
+153         Florida Tech   864.44   291.58     1 
+154            Fontbonne   782.48   294.47     1 
+155              Fordham   953.46   205.81    30 
+156      Fort Valley St.   1147.23   290.64     1 
+157       Fresno Pacific   857.91   290.98     1 
+158           Fresno St.   1310.64   185.13    29 
+159               Furman   602.13   180.33    31 
+160         Ga. Southern   905.21   169.62    32 
+161     Ga. Southwestern   892.48   296.46     1 
+162         Gardner-Webb   1169.17   181.46    32 
+163               Geneva   804.33   291.92     1 
+164           George Fox   690.37   311.80     1 
+165         George Mason   931.19   157.59    31 
+166    George Washington   1108.33   177.29    30 
+167           Georgetown   1577.23   170.95    31 
+168              Georgia   1179.91   162.05    31 
+169          Georgia St.   944.61   162.62    30 
+170         Georgia Tech   1140.83   164.16    30 
+171              Gonzaga   1917.70   210.39    32 
+172            Grambling    18.17   237.56    27 
+173            Green Bay   1233.76   160.51    33 
+174           Greensboro   765.61   297.00     1 
+175           Greenville   933.69   311.10     1 
+176        Gwynedd-Mercy   837.79   290.23     1 
+177              Hampton   898.38   175.06    30 
+178         Hannibal-La    1019.84   269.01     2 
+179              Hanover   879.38   293.69     1 
+180       Hardin-Simmons   795.26   323.35     2 
+181             Hartford   973.55   188.84    30 
+182              Harvard   1180.52   173.79    27 
+183            Haverford   883.54   294.47     1 
+184               Hawaii   893.63   186.52    31 
+185           High Point   868.73   175.29    29 
+186                Hiram   838.57   290.23     1 
+187           Hiwassee	    704.94   251.72     2 
+188              Hofstra   623.84   193.45    31 
+189           Holy Cross   765.08   182.71    30 
+190           Holy Names   837.79   290.23     1 
+191                Hope    967.19   292.06     1 
+192              Houston   1084.81   167.45    30 
+193      Houston Baptist   961.20   162.04    30 
+194               Howard   440.29   186.08    31 
+195         Howard Payne   859.25   291.09     1 
+196   Huston-Tillotson	    834.18   290.25     1 
+197                 IPFW   1196.34   169.55    32 
+198                IUPUI   408.39   205.32    31 
+199                Idaho   922.73   186.85    29 
+200            Idaho St.   622.95   173.19    30 
+201         Ill.-Chicago   1000.85   165.52    32 
+202     Ill.-Springfield   855.58   290.81     1 
+203             Illinois   1399.03   166.84    33 
+204         Illinois St.   1195.63   157.16    33 
+205          Ind.-East	    742.53   301.04     1 
+206     Ind.-Northwest	    745.66   300.46     1 
+207              Indiana   1611.75   168.91    32 
+208          Indiana St.   1173.55   167.34    31 
+209                 Iona   1242.82   154.95    32 
+210                 Iowa   1448.05   166.15    32 
+211             Iowa St.   1439.30   162.08    32 
+212          Jackson St.   801.82   178.74    29 
+213         Jacksonville   697.84   162.62    31 
+214     Jacksonville St.   1016.79   182.38    27 
+215        James Madison   1184.81   153.94    34 
+216              Jarvis    1036.33   292.46     1 
+217         John Carroll   837.79   290.23     1 
+218      Johnson & Wales   584.53   262.92     3 
+219               Judson   663.04   253.73     2 
+220               Kansas   1698.55   173.01    33 
+221           Kansas St.   1594.31   158.89    32 
+222         Kennesaw St.   446.47   202.29    29 
+223             Kent St.   1362.12   160.64    32 
+224             Kentucky   1289.85   170.37    31 
+225         LIU Brooklyn   1269.47   157.73    32 
+226                  LSU   1270.96   153.45    30 
+227     LSU-Shreveport	    765.94   300.85     2 
+228             La Salle   1323.47   182.67    30 
+229             La Verne   812.39   270.06     2 
+230        La.-Lafayette   948.64   169.69    33 
+231           La.-Monroe   536.10   196.67    27 
+232            Lafayette   1221.69   172.84    33 
+233                Lamar   304.66   196.74    31 
+234         LeMoyne-Owen   837.71   290.23     1 
+235           LeTourneau   842.56   290.27     1 
+236           Lees-McRae   731.74   303.12     1 
+237               Lehigh   1062.61   171.94    29 
+238         Lenoir-Rhyne   595.37   283.36     2 
+239        Lewis & Clark   812.11   291.26     1 
+240         Lewis-Clark    1139.52   317.08     1 
+241              Liberty   1127.26   146.40    34 
+242              Lincoln   1162.21   290.23     1 
+243             Lipscomb   843.54   171.60    29 
+244       Long Beach St.   1150.46   163.01    31 
+245             Longwood   764.43   159.05    32 
+246       Louisiana Col.   685.60   261.27     2 
+247       Louisiana Tech   1124.19   206.55    32 
+248           Louisville   1812.48   162.08    34 
+249               Loyola   893.13   296.62     1 
+250       Loyola Chicago   921.93   167.72    30 
+251      Loyola Maryland   1077.84   176.64    31 
+252     Loyola Marymount   1125.58   190.99    33 
+253    Lubbock Christian   897.27   297.69     1 
+254           Lyndon St.   847.13   290.39     1 
+255                 Lyon   789.76   293.52     1 
+256               Lyon	    837.79   290.23     1 
+257            Madonna	    878.57   293.55     1 
+258                Maine   743.85   188.69    30 
+259               Malone   715.61   268.88     2 
+260           Manchester   867.88   291.97     1 
+261            Manhattan   1149.61   150.59    32 
+262            Mansfield   718.76   305.73     1 
+263               Marist   821.08   172.50    30 
+264            Marquette   1503.26   178.65    29 
+265            Mars Hill   837.79   290.23     1 
+266             Marshall   969.88   172.78    31 
+267              Martin    1053.21   291.33     2 
+268          Marygrove	    692.72   301.66     2 
+269             Maryland   1311.58   156.30    33 
+270            Maryville   837.79   290.23     1 
+271             Marywood   794.54   292.95     1 
+272        Massachusetts   1375.64   154.18    32 
+273           Master's	    782.48   294.47     1 
+274            Mayville    949.47   294.47     1 
+275          McNeese St.   807.36   159.46    30 
+276              Memphis   1727.78   189.41    34 
+277              Menlo	    862.34   291.37     1 
+278               Mercer   1167.89   157.98    34 
+279            Methodist   883.54   294.47     1 
+280                Miami   1219.05   138.65    61 
+281             Michigan   1459.04   168.49    32 
+282         Michigan St.   1583.22   165.84    32 
+283         Middle Tenn.   1381.56   222.46    32 
+284           Milligan	    476.73   268.62     3 
+285            Milwaukee   853.12   185.49    31 
+286            Minnesota   1213.44   172.61    31 
+287            Minot St.   837.79   290.23     1 
+288      Mississippi St.   998.79   172.08    31 
+289     Mississippi Val.   468.26   183.97    27 
+290             Missouri   1334.74   159.70    33 
+291            Missouri    1032.37   292.01     1 
+292         Missouri St.   1184.05   157.31    32 
+293             Monmouth   663.72   172.92    30 
+294              Montana   1467.59   186.49    30 
+295             Montana    853.04   274.26     2 
+296          Montana St.   836.31   171.19    30 
+297           Montreat	    441.06   280.70     3 
+298         Morehead St.   952.58   155.24    32 
+299           Morgan St.   1089.68   155.92    31 
+300            Mount Ida   837.79   290.23     1 
+301       Mt. St. Joseph   885.08   294.78     1 
+302       Mt. St. Mary's   1213.70   166.25    31 
+303           Muhlenberg   876.31   293.17     1 
+304           Murray St.   1039.68   179.95    30 
+305             N.C. A&T   1178.61   161.22    34 
+306         N.C. Central   1142.73   200.08    31 
+307        N.C. Wesleyan   855.50   290.81     1 
+308                 NJIT   938.54   184.01    28 
+309                 Navy   592.38   198.71    30 
+310           Neb. Omaha   963.23   165.30    30 
+311             Nebraska   1359.13   171.08    33 
+312               Nevada   938.28   186.05    31 
+313        New Hampshire   807.55   180.79    29 
+314           New Mexico   1704.00   169.46    34 
+315       New Mexico St.   1528.29   179.24    34 
+316          New Orleans   685.67   179.40    25 
+317              Niagara   1092.22   172.83    31 
+318         Nicholls St.   642.52   167.04    30 
+319          Norfolk St.   1157.12   205.62    31 
+320       North Carolina   1587.78   165.04    32 
+321   North Carolina St.   1324.41   160.31    33 
+322         North Dakota   1056.06   178.07    31 
+323     North Dakota St.   1221.57   170.51    32 
+324        North Florida   871.36   163.77    32 
+325     North Greenville   664.71   317.58     1 
+326          North Texas   911.11   183.21    30 
+327         Northeastern   1007.78   173.01    31 
+328            Northern    916.16   291.83     2 
+329       Northern Ariz.   730.21   192.80    32 
+330       Northern Colo.   1026.55   165.36    31 
+331        Northern Ill.   521.85   182.04    29 
+332         Northern Ky.   902.39   184.74    27 
+333            Northwest   732.69   302.93     1 
+334         Northwestern   963.99   194.96    32 
+335     Northwestern St.   1406.93   183.94    30 
+336           Notre Dame   1515.50   154.83    36 
+337              Oakland   1058.33   188.36    31 
+338         Oakland City   724.24   288.39     2 
+339      Oakwood	17	24	    837.79   290.23     1 
+340      Oakwood	39	38	    760.08   297.92     1 
+341              Oberlin   821.23   290.67     1 
+342           Oglethorpe   883.54   294.47     1 
+343                 Ohio   1384.74   166.00    33 
+344       Ohio Dominican   697.85   310.16     1 
+345             Ohio St.   1809.42   171.18    32 
+346      Okla. Panhandle   789.90   290.36     2 
+347             Oklahoma   1250.34   177.81    31 
+348         Oklahoma St.   1552.97   166.67    31 
+349         Old Dominion   711.55   181.79    29 
+350         Old Westbury   813.11   291.18     1 
+351             Ole Miss   1530.06   151.49    33 
+352               Olivet   782.48   294.47     1 
+353         Oral Roberts   836.12   183.66    31 
+354               Oregon   1495.13   156.37    34 
+355           Oregon St.   1027.69   184.26    31 
+356              Pacific   1412.72   150.59    34 
+357             Pacific    962.12   297.69     2 
+358     Pacific Lutheran   832.73   290.27     1 
+359           Pacifica	    831.60   290.29     1 
+360     Pacifica	34	32	    848.81   290.45     1 
+361                 Penn   1074.10   161.86    30 
+362             Penn St.   1068.20   199.93    30 
+363           Pepperdine   844.20   178.22    29 
+364                Peru    921.71   299.95     1 
+365           Pittsburgh   1416.65   185.30    31 
+366           Point Loma   943.54   315.88     1 
+367             Portland   891.24   194.93    32 
+368            Portland    961.51   292.73     1 
+369         Portland St.   626.91   176.59    27 
+370         Prairie View   800.77   163.07    33 
+371         Presbyterian   690.98   165.90    32 
+372         Presentation   760.07   297.92     1 
+373            Princeton   1004.21   166.35    28 
+374           Providence   1298.71   175.17    31 
+375               Purdue   1307.78   168.72    31 
+376     Purdue-Calumet	    857.27   290.93     1 
+377           Quinnipiac   940.75   160.37    31 
+378              Radford   671.07   161.17    31 
+379                Regis   919.81   305.16     1 
+380          Reinhardt	    717.21   306.05     1 
+381         Rhode Island   895.48   186.08    28 
+382                 Rice   578.94   201.22    31 
+383             Richmond   1117.46   174.99    31 
+384                Rider   1096.41   178.21    31 
+385                 Rio    955.11   286.09     2 
+386              Robert    944.96   295.23     1 
+387        Robert Morris   1164.92   171.59    32 
+388           Rochester    918.66   209.19     5 
+389            Rockhurst   837.79   290.23     1 
+390          Roosevelt	    931.24   309.98     1 
+391             Rosemont   812.76   291.21     1 
+392              Rutgers   1108.80   177.63    30 
+393     SIU Edwardsville   598.16   180.86    27 
+394                  SMU   959.40   172.11    32 
+395       Sacramento St.   769.06   171.30    28 
+396         Sacred Heart   560.59   164.66    29 
+397        Saint Francis   720.25   169.53    28 
+398       Saint Joseph's   1247.40   165.97    31 
+399          Saint Louis   1698.49   176.30    31 
+400        Saint Peter's   662.08   183.25    29 
+401            Salisbury   862.59   291.39     1 
+402      Sam Houston St.   922.12   160.98    33 
+403              Samford   686.29   168.23    31 
+404                 San    1042.89   190.71     7 
+405            San Diego   1199.31   162.87    33 
+406        San Diego St.   1427.31   161.15    31 
+407        San Francisco   1137.32   190.39    30 
+408         San Jose St.   516.62   196.35    29 
+409          Santa Clara   1201.63   190.42    32 
+410         Savannah St.   862.43   183.10    32 
+411            Schreiner   837.79   290.23     1 
+412              Seattle   627.66   176.09    30 
+413           Seton Hall   1063.92   174.61    32 
+414              Sewanee   837.79   290.23     1 
+415           Shenandoah   763.42   297.36     1 
+416                Siena   756.22   174.05    31 
+417               Siena    1008.88   290.37     1 
+418              Simpson   837.79   290.23     1 
+419           Sonoma St.   800.24   292.33     1 
+420           South Ala.   1031.67   178.93    28 
+421       South Carolina   886.49   164.01    32 
+422   South Carolina St.   550.16   201.78    29 
+423         South Dakota   710.29   196.57    30 
+424     South Dakota St.   1374.17   174.23    33 
+425           South Fla.   1030.54   170.44    31 
+426    Southeast Mo. St.   971.88   152.92    32 
+427         Southeastern   800.31   302.65     2 
+428     Southeastern La.   886.53   174.58    31 
+429            Southern    975.44   285.36     2 
+430  Southern California   1174.32   165.47    31 
+431        Southern Ill.   1254.79   170.34    31 
+432       Southern Miss.   1445.39   158.10    34 
+433          Southern U.   1090.64   194.92    31 
+434        Southern Utah   636.80   185.49    30 
+435         Southern Va.   521.80   278.07     2 
+436      Southern-N.O.	    784.16   294.24     1 
+437            Southwest   760.76   306.43     2 
+438  Southwest Minn. St.   868.69   292.07     1 
+439             Spalding   859.65   291.12     1 
+440              Spring    903.74   268.65     2 
+441                 St.    1115.32   230.60     4 
+442          St. Andrews   846.46   290.36     1 
+443      St. Bonaventure   1040.52   174.52    28 
+444         St. Edward's   782.48   294.47     1 
+445 St. Francis Brooklyn   798.36   175.17    29 
+446           St. John's   1146.97   175.79    31 
+447             St. Mary   1162.21   290.23     1 
+448           St. Mary's   1645.50   185.30    32 
+449           St. Thomas   1162.21   290.23     1 
+450             Stanford   1266.92   177.41    31 
+451    Stephen F. Austin   1351.71   197.22    30 
+452              Stetson   995.20   163.01    30 
+453          Stony Brook   1256.02   188.85    30 
+454              Suffolk   837.79   290.23     1 
+455             Syracuse   1541.08   149.63    34 
+456                 TCNJ   871.58   292.46     1 
+457                  TCU   968.67   204.57    31 
+458              Tabor	    722.25   305.02     1 
+459               Temple   1481.05   181.27    32 
+460               Tenn.    1000.00   290.23     1 
+461            Tennessee   1382.24   170.05    31 
+462        Tennessee St.   1145.08   167.78    31 
+463       Tennessee Tech   975.09   172.28    29 
+464    Tex.-Pan American   937.25   184.98    31 
+465                Texas   1349.12   168.97    32 
+466            Texas A&M   1067.74   160.20    32 
+467       Texas Southern   1210.76   182.62    31 
+468            Texas St.   967.55   171.42    32 
+469           Texas Tech   1040.66   184.51    30 
+470      Texas-Arlington   1232.93   157.68    31 
+471          Texas-Tyler   800.24   292.33     1 
+472              Toccoa    775.10   273.92     3 
+473               Toledo   1118.14   172.03    27 
+474               Towson   1136.49   174.83    30 
+475             Trinity    898.89   286.22     2 
+476                 Troy   834.08   168.62    32 
+477               Truman   883.54   294.47     1 
+478               Tulane   1034.12   164.02    32 
+479                Tulsa   1170.73   176.71    32 
+480             Tuskegee   929.79   309.33     1 
+481                  UAB   1193.79   161.75    33 
+482                 UALR   930.44   171.44    31 
+483             UC Davis   1025.74   164.73    30 
+484            UC Irvine   1275.13   151.30    35 
+485         UC Riverside   619.17   179.56    30 
+486     UC Santa Barbara   877.34   174.97    30 
+487        UC Santa Cruz   843.41   290.29     1 
+488                  UCF   1234.29   162.81    31 
+489                 UCLA   1502.28   156.89    33 
+490                 UMBC   825.21   185.41    30 
+491                 UMES   297.45   198.95    28 
+492                 UMKC   631.05   202.32    30 
+493        UNC Asheville   783.17   157.06    31 
+494       UNC Greensboro   769.58   162.00    30 
+495       UNC Wilmington   597.84   169.20    30 
+496                  UNI   1228.86   169.67    32 
+497                 UNLV   1553.35   158.69    34 
+498          USC Upstate   875.71   163.65    32 
+499            UT Martin   755.29   173.01    29 
+500                 UTEP   1229.71   162.57    31 
+501                 UTSA   938.24   175.31    31 
+502             UVa-Wise   869.34   292.16     1 
+503                Union   558.08   256.18     3 
+504               Urbana   755.97   298.62     1 
+505                 Utah   1310.62   154.58    32 
+506             Utah St.   1096.12   171.57    31 
+507          Utah Valley   749.18   177.05    31 
+508                  VCU   1584.69   166.00    32 
+509                  VMI   852.61   159.86    31 
+510           Valparaiso   1565.63   177.81    32 
+511           Vanderbilt   1346.70   149.20    33 
+512           Vanguard	    879.70   293.75     1 
+513              Vermont   1083.18   173.06    31 
+514            Villanova   1429.43   175.48    32 
+515             Virginia   1243.40   165.49    31 
+516            Virginia    1004.86   290.27     1 
+517        Virginia Tech   966.38   176.08    32 
+518 Virginia-Lynchburg	    688.11   302.27     2 
+519               Wabash   837.79   290.23     1 
+520               Wagner   1061.86   166.00    31 
+521          Wake Forest   1041.21   168.09    30 
+522            Waldorf	    843.55   290.29     1 
+523               Walla    1119.17   304.37     2 
+524             Warner	    839.66   290.24     1 
+525              Warren    955.03   293.61     1 
+526             Wartburg   837.79   290.23     1 
+527          Wash. & Lee   837.79   290.23     1 
+528           Washington   1294.58   158.95    33 
+529       Washington St.   1155.97   189.82    32 
+530             Wayland    1054.65   295.16     1 
+531              Webber    889.24   241.02     4 
+532            Weber St.   1384.07   193.34    31 
+533            West Ala.   800.66   282.79     2 
+534        West Virginia   977.97   173.00    32 
+535        Western Caro.   947.22   158.14    32 
+536         Western Ill.   1110.20   188.71    30 
+537          Western Ky.   1246.15   150.75    35 
+538        Western Mich.   1142.75   161.72    32 
+539         Western Ore.   910.52   301.75     1 
+540          Western St.   796.11   276.77     2 
+541     Westmont	40	34	    712.73   306.98     1 
+542              Whitman   747.92   300.05     1 
+543             Whittier   736.26   302.24     1 
+544          Wichita St.   1352.09   149.95    34 
+545             William    1009.08   278.76     3 
+546       William & Mary   800.66   169.83    29 
+547       William Jewell   837.79   290.23     1 
+548           Wilmington   655.95   323.93     2 
+549        Winston-Salem   837.79   290.23     1 
+550             Winthrop   908.30   157.28    31 
+551            Wisconsin   1625.54   165.54    33 
+552              Wofford   828.80   168.08    31 
+553           Wright St.   1236.97   161.11    32 
+554              Wyoming   1156.87   171.95    32 
+555               Xavier   1193.96   172.43    30 
+556                 Yale   1184.41   160.69    31 
+557         Young Harris   837.79   290.23     1 
+558       Youngstown St.   1014.66   160.25    32 

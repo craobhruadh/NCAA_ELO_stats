@@ -1,0 +1,558 @@
+1              Gonzaga   1283.29 
+2              Memphis   1275.47 
+3           Louisville   1273.22 
+4           New Mexico   1255.29 
+5               Kansas   1236.35 
+6          Saint Louis   1231.50 
+7             Ohio St.   1226.22 
+8           Georgetown   1219.06 
+9              Indiana   1215.06 
+10           St. Mary's   1214.53 
+11                Akron   1209.40 
+12                 Duke   1205.52 
+13           Valparaiso   1201.96 
+14                  VCU   1201.48 
+15         Middle Tenn.   1201.25 
+16              Belmont   1195.87 
+17             Davidson   1195.57 
+18           Kansas St.   1194.26 
+19         Michigan St.   1193.98 
+20             Bucknell   1190.81 
+21       North Carolina   1188.97 
+22            Creighton   1188.05 
+23              Montana   1182.22 
+24              Florida   1181.61 
+25                 UNLV   1178.71 
+26            Marquette   1177.15 
+27    Stephen F. Austin   1176.03 
+28            Wisconsin   1175.21 
+29               Butler   1174.16 
+30                 UCLA   1172.62 
+31         Oklahoma St.   1172.62 
+32             Syracuse   1172.25 
+33             Michigan   1171.56 
+34             Ole Miss   1171.10 
+35            Weber St.   1171.05 
+36         Colorado St.   1167.57 
+37               Oregon   1166.42 
+38       New Mexico St.   1166.30 
+39              Arizona   1163.32 
+40               Denver   1161.21 
+41           Pittsburgh   1160.18 
+42       Southern Miss.   1157.96 
+43           Notre Dame   1154.69 
+44               Temple   1153.24 
+45       Louisiana Tech   1150.27 
+46                 Ohio   1146.67 
+47          Wichita St.   1145.35 
+48          Stony Brook   1143.41 
+49     South Dakota St.   1141.00 
+50        San Diego St.   1134.37 
+51     Northwestern St.   1132.90 
+52   North Carolina St.   1131.18 
+53             Missouri   1125.64 
+54            Boise St.   1125.02 
+55                 FGCU   1121.90 
+56             Iowa St.   1120.23 
+57             La Salle   1119.61 
+58           Cincinnati   1118.37 
+59           California   1118.31 
+60              Pacific   1116.25 
+61        Robert Morris   1112.99 
+62        Massachusetts   1111.69 
+63               Albany   1108.20 
+64             Colorado   1107.23 
+65            Tennessee   1106.85 
+66            Villanova   1106.14 
+67         Western Ill.   1104.86 
+68   Col. of Charleston   1104.72 
+69     North Dakota St.   1104.45 
+70                 Iowa   1104.14 
+71             Illinois   1104.11 
+72          Connecticut   1103.70 
+73             Virginia   1102.67 
+74         N.C. Central   1102.10 
+75               Mercer   1100.85 
+76             Maryland   1098.89 
+77             Kentucky   1098.23 
+78         LIU Brooklyn   1095.76 
+79              Alabama   1094.83 
+80               Lehigh   1092.02 
+81          Eastern Ky.   1092.00 
+82             Kent St.   1091.94 
+83         Gardner-Webb   1088.61 
+84          Norfolk St.   1088.57 
+85                  BYU   1088.50 
+86             Oklahoma   1087.60 
+87                  UCF   1087.06 
+88          Southern U.   1085.01 
+89            Lafayette   1084.54 
+90              Harvard   1084.15 
+91              Detroit   1080.86 
+92           Wright St.   1078.48 
+93             Utah St.   1076.38 
+94          Santa Clara   1075.50 
+95            Charlotte   1075.43 
+96       Mt. St. Mary's   1074.18 
+97            Boston U.   1072.26 
+98            UC Irvine   1072.22 
+99             Arkansas   1071.13 
+100                  LSU   1070.89 
+101          Arizona St.   1069.34 
+102           Murray St.   1069.29 
+103              Vermont   1069.16 
+104           Providence   1069.11 
+105          Florida St.   1067.53 
+106        James Madison   1066.97 
+107                 Iona   1066.77 
+108                  UNI   1066.53 
+109      Loyola Maryland   1064.47 
+110        Western Mich.   1063.16 
+111            Minnesota   1062.45 
+112              Niagara   1062.12 
+113           Evansville   1062.01 
+114                 UTEP   1061.97 
+115             Cal Poly   1061.85 
+116       Long Beach St.   1061.51 
+117            Air Force   1061.35 
+118                 Elon   1061.18 
+119      Texas-Arlington   1060.97 
+120            Green Bay   1060.59 
+121        East Carolina   1060.41 
+122               Wagner   1060.30 
+123        Tennessee St.   1060.19 
+124          Western Ky.   1059.84 
+125             Stanford   1058.94 
+126           Washington   1057.82 
+127       Saint Joseph's   1057.68 
+128       Texas Southern   1057.67 
+129               Towson   1057.39 
+130             Delaware   1054.46 
+131       Charleston So.   1049.23 
+132               Baylor   1048.60 
+133          Indiana St.   1047.88 
+134           Vanderbilt   1047.81 
+135                Miami   1047.17 
+136         Northeastern   1046.45 
+137                Rider   1044.55 
+138         Illinois St.   1043.49 
+139               Bryant   1042.98 
+140       Boston College   1042.77 
+141              Wyoming   1041.84 
+142                  FIU   1040.35 
+143               Toledo   1039.98 
+144         Arkansas St.   1039.48 
+145               Xavier   1039.39 
+146               Purdue   1036.50 
+147               Dayton   1036.01 
+148                Tulsa   1035.79 
+149      Ark.-Pine Bluff   1035.47 
+150              Houston   1034.94 
+151           South Ala.   1033.95 
+152             Richmond   1033.57 
+153                Texas   1032.16 
+154             N.C. A&T   1031.84 
+155           St. John's   1027.53 
+156             Hartford   1027.00 
+157                  UAB   1026.79 
+158     Jacksonville St.   1026.10 
+159            Princeton   1026.06 
+160               Tulane   1024.51 
+161              Georgia   1019.85 
+162        San Francisco   1018.92 
+163                Drake   1018.26 
+164         North Dakota   1017.38 
+165             Anderson   1016.94 
+166           Morgan St.   1016.59 
+167      Alas. Anchorage   1016.13 
+168              Lincoln   1016.00 
+169             St. Mary   1016.00 
+170           St. Thomas   1016.00 
+171             Canisius   1016.00 
+172      Fort Valley St.   1015.30 
+173             Nebraska   1013.52 
+174                 Army   1013.41 
+175                 IPFW   1012.55 
+176                 Utah   1012.22 
+177            Manhattan   1011.68 
+178       Youngstown St.   1010.91 
+179         Oral Roberts   1010.50 
+180      CSU Bakersfield   1009.33 
+181            San Diego   1009.32 
+182             Ball St.   1009.27 
+183         Savannah St.   1008.86 
+184            Fairfield   1008.57 
+185              Oakland   1007.43 
+186           High Point   1006.27 
+187         Georgia Tech   1006.14 
+188  Southern California   1005.38 
+189                 Yale   1005.29 
+190         George Mason   1004.83 
+191               Walla    1004.60 
+192                 St.    1004.17 
+193           Crowley's    1004.09 
+194         Lewis-Clark    1003.44 
+195            Texas A&M   1003.29 
+196              Dakota    1002.38 
+197              Martin    1001.88 
+198                Col.    1001.57 
+199             Wayland    1001.34 
+200              Rutgers   1000.83 
+201              Stetson   1000.78 
+202                 Ave    1000.74 
+203             William    1000.72 
+204              Jarvis    1000.70 
+205          Cincinnati    1000.70 
+206        Southern Ill.   1000.56 
+207              Liberty   1000.52 
+208         Hannibal-La    1000.46 
+209               Siena    1000.01 
+210               Tenn.    1000.00 
+211            Southern    999.90 
+212             Arizona    999.82 
+213                 San    999.80 
+214            Missouri    999.70 
+215            Virginia    999.66 
+216              Dallas    999.50 
+217                 Cal    999.27 
+218               Alice    999.26 
+219            Mayville    999.26 
+220                 NJIT   999.12 
+221                Hope    999.12 
+222           Bluefield    999.06 
+223                 UALR   999.04 
+224             Pacific    998.66 
+225              Robert    998.64 
+226             Coastal    998.60 
+227             Central    998.59 
+228                Blue    998.53 
+229              Warren    998.24 
+230            Portland    998.21 
+231              Edward    998.00 
+232               Hawaii   997.86 
+233             Brewton    997.83 
+234                 Rio    997.50 
+235                Peru    997.40 
+236           Arlington    997.28 
+237              Webber    997.07 
+238             Trinity    996.74 
+239           Quinnipiac   996.52 
+240         Ill.-Chicago   996.36 
+241            Northern    996.31 
+242                Fla.    996.01 
+243           Rochester    995.41 
+244              Spring    995.12 
+245             Montana    994.32 
+246      St. Bonaventure   993.30 
+247      Appalachian St.   992.70 
+248              Toccoa    992.63 
+249    Southeast Mo. St.   991.72 
+250           Greenville   989.00 
+251           Point Loma   988.34 
+252            Adams St.   988.32 
+253             Corban	    988.23 
+254             Tuskegee   988.18 
+255                Brown   987.97 
+256             UC Davis   987.89 
+257     Ga. Southwestern   987.88 
+258            Champion    987.86 
+259          Roosevelt	    987.47 
+260           Muhlenberg   987.09 
+261              Buffalo   986.74 
+262            Dillard	    986.39 
+263         Western Ore.   986.16 
+264               Bethel   986.10 
+265                Regis   986.10 
+266    Lubbock Christian   986.00 
+267               Loyola   985.89 
+268       Mt. St. Joseph   985.80 
+269           Vanguard	    985.68 
+270    George Washington   985.49 
+271       Fresno Pacific   985.49 
+272     Purdue-Calumet	    985.43 
+273        N.C. Wesleyan   985.39 
+274            Madonna	    985.37 
+275  Southwest Minn. St.   985.31 
+276            Salisbury   985.20 
+277             Spalding   985.18 
+278         Howard Payne   985.13 
+279            Brescia	    984.80 
+280           Manchester   984.76 
+281         Fairmont St.   984.75 
+282                Cairn   984.74 
+283            Haverford   984.74 
+284            Methodist   984.74 
+285           Oglethorpe   984.74 
+286               Truman   984.74 
+287             UVa-Wise   984.71 
+288              Cameron   984.70 
+289    Tex.-Pan American   984.67 
+290         Florida Tech   984.61 
+291   Huston-Tillotson	    984.42 
+292                Hiram   984.41 
+293                 TCNJ   984.35 
+294             Warner	    984.19 
+295              Hanover   984.16 
+296              Menlo	    984.11 
+297           Lyndon St.   984.10 
+298        UC Santa Cruz   984.03 
+299     Cal St. East Bay   984.00 
+300          Chadron St.   984.00 
+301             Covenant   984.00 
+302                Crown   984.00 
+303              Eastern   984.00 
+304        Gwynedd-Mercy   984.00 
+305           Holy Names   984.00 
+306         John Carroll   984.00 
+307               Lyon	    984.00 
+308            Mars Hill   984.00 
+309            Maryville   984.00 
+310            Minot St.   984.00 
+311            Mount Ida   984.00 
+312      Oakwood	17	24	    984.00 
+313            Rockhurst   984.00 
+314            Schreiner   984.00 
+315              Sewanee   984.00 
+316              Simpson   984.00 
+317          St. Andrews   984.00 
+318              Suffolk   984.00 
+319               Wabash   984.00 
+320             Wartburg   984.00 
+321          Wash. & Lee   984.00 
+322       William Jewell   984.00 
+323        Winston-Salem   984.00 
+324         Young Harris   984.00 
+325     Pacific Lutheran   983.97 
+326           Pacifica	    983.97 
+327               Geneva   983.65 
+328             Rosemont   983.64 
+329         LeMoyne-Owen   983.63 
+330            Waldorf	    983.52 
+331           Fresno St.   983.42 
+332        Lewis & Clark   983.39 
+333                 CCNY   983.36 
+334    Concordia Chicago   983.26 
+335            Fontbonne   983.26 
+336           Master's	    983.26 
+337               Olivet   983.26 
+338         St. Edward's   983.26 
+339                 Lyon   983.26 
+340      Southern-N.O.	    983.23 
+341                Coker   983.23 
+342     Ill.-Springfield   983.17 
+343         Old Westbury   983.16 
+344           LeTourneau   983.07 
+345          Texas-Tyler   982.78 
+346             Marywood   982.76 
+347    Culver-Stockton	    982.73 
+348      Oakwood	39	38	    982.60 
+349              Whitman   982.56 
+350       Daniel Webster   982.51 
+351     Pacifica	34	32	    982.50 
+352              Bradley   982.47 
+353           Sonoma St.   982.36 
+354              Arcadia   982.10 
+355              Allen	    982.09 
+356                 Fisk   981.96 
+357      Barber-Scotia	    981.95 
+358           BYU-Hawaii   981.89 
+359          Ind.-East	    981.87 
+360     Westmont	40	34	    981.87 
+361              Cheyney   981.84 
+362      Albertus Magnus   981.75 
+363          Georgia St.   981.69 
+364           Shenandoah   981.57 
+365           Greensboro   981.55 
+366         Presentation   981.49 
+367              Oberlin   981.40 
+368            Mansfield   981.30 
+369        Allen	28	12	    981.28 
+370              Tabor	    980.95 
+371           George Fox   980.76 
+372             Whittier   980.76 
+373            Northwest   980.40 
+374     Ind.-Northwest	    980.39 
+375          Reinhardt	    980.00 
+376           Lees-McRae   979.90 
+377         Colby-Sawyer   979.72 
+378     North Greenville   979.53 
+379               Urbana   979.45 
+380       Ohio Dominican   979.18 
+381          Benedictine   979.01 
+382    Aub.-Montgomery	    978.77 
+383           Ecclesia	    977.89 
+384       Northern Colo.   976.01 
+385              Hampton   974.41 
+386      Sam Houston St.   973.76 
+387      Okla. Panhandle   973.66 
+388            Chaminade   972.53 
+389       Hardin-Simmons   972.13 
+390             La Verne   971.77 
+391         Eastern N.M.   971.30 
+392         Southeastern   971.28 
+393           Seton Hall   970.94 
+394            West Ala.   970.85 
+395            Dominican   970.40 
+396          Western St.   970.20 
+397     LSU-Shreveport	    970.10 
+398            Southwest   970.07 
+399          Wake Forest   969.96 
+400               Malone   969.30 
+401          Marygrove	    969.04 
+402         Oakland City   968.93 
+403        Eastern Mich.   968.91 
+404         Morehead St.   968.78 
+405           Hiwassee	    968.00 
+406       Louisiana Col.   967.90 
+407           Wilmington   967.81 
+408              Carroll   967.34 
+409      Ala.-Huntsville   967.27 
+410               Judson   967.20 
+411            Centenary   966.72 
+412 Virginia-Lynchburg	    966.66 
+413              Berea	    966.51 
+414          USC Upstate   965.83 
+415        UNC Asheville   964.86 
+416         Lenoir-Rhyne   964.28 
+417 Benedictine-Sprngfld	    964.12 
+418               Eureka   963.48 
+419        Bowling Green   962.13 
+420    Central Conn. St.   961.47 
+421         Southern Va.   961.47 
+422       Washington St.   960.32 
+423                  SMU   959.85 
+424        Coastal Caro.   959.25 
+425      Houston Baptist   958.19 
+426         Missouri St.   957.79 
+427        West Virginia   957.15 
+428        Western Caro.   956.62 
+429       Loyola Chicago   955.56 
+430         Northern Ky.   955.33 
+431       Dist. Columbia   954.23 
+432             Marshall   953.89 
+433     Southeastern La.   953.30 
+434           South Fla.   953.07 
+435             Winthrop   952.62 
+436      Johnson & Wales   951.55 
+437        Fla. Atlantic   951.31 
+438             Fisher	    950.67 
+439           Oregon St.   950.58 
+440              Brevard   950.07 
+441        La.-Lafayette   948.70 
+442       Tennessee Tech   948.63 
+443               Drexel   948.36 
+444                Union   948.18 
+445                Idaho   948.14 
+446        Cleveland St.   947.68 
+447        Virginia Tech   945.25 
+448           Milligan	    945.16 
+449         Northwestern   944.95 
+450           Montreat	    944.79 
+451          McNeese St.   944.17 
+452         Central Ark.   942.63 
+453         Delaware St.   942.51 
+454               Nevada   941.19 
+455              Clemson   939.57 
+456          North Texas   939.55 
+457       Sacramento St.   939.12 
+458         Ga. Southern   937.44 
+459          Montana St.   937.40 
+460                  VMI   936.31 
+461      Bethune-Cookman   936.21 
+462        North Florida   935.69 
+463             Lipscomb   934.71 
+464           Neb. Omaha   934.62 
+465          Jackson St.   933.78 
+466           Pepperdine   933.45 
+467              Wofford   931.99 
+468                 Penn   931.36 
+469       William & Mary   930.41 
+470         Eastern Ill.   930.18 
+471       South Carolina   929.56 
+472 St. Francis Brooklyn   928.12 
+473         Prairie View   926.97 
+474              Cornell   926.70 
+475           Texas Tech   925.57 
+476          Chattanooga   924.81 
+477            Texas St.   924.27 
+478          Chicago St.   922.26 
+479   Cal St. Northridge   921.17 
+480      Mississippi St.   919.69 
+481         Jacksonville   919.45 
+482             Penn St.   918.44 
+483                Maine   918.40 
+484             Columbia   916.55 
+485            Dartmouth   915.72 
+486             Portland   915.05 
+487     UC Santa Barbara   914.94 
+488               Marist   911.94 
+489              Colgate   911.27 
+490    Cal St. Fullerton   911.06 
+491                 UTSA   910.99 
+492             Campbell   910.94 
+493     Loyola Marymount   910.60 
+494                 Troy   908.85 
+495         Rhode Island   908.24 
+496           Holy Cross   907.61 
+497               DePaul   905.44 
+498                  TCU   903.90 
+499             American   902.95 
+500          Utah Valley   901.58 
+501        Eastern Wash.   899.67 
+502       East Tenn. St.   897.08 
+503        New Hampshire   896.92 
+504        Central Mich.   895.50 
+505       Northern Ariz.   895.50 
+506              Samford   894.43 
+507              Radford   891.05 
+508         South Dakota   890.20 
+509            UT Martin   887.79 
+510                 UMBC   887.10 
+511        Southern Utah   886.46 
+512              Fordham   882.86 
+513       UNC Greensboro   880.63 
+514     SIU Edwardsville   877.82 
+515         Nicholls St.   875.95 
+516         Sacred Heart   870.19 
+517             Monmouth   868.71 
+518            Milwaukee   867.26 
+519          Alabama St.   866.93 
+520             Duquesne   866.03 
+521               Auburn   865.06 
+522       UNC Wilmington   863.61 
+523                Siena   863.09 
+524         San Jose St.   861.91 
+525          Alabama A&M   858.81 
+526        Saint Peter's   857.42 
+527             Longwood   854.02 
+528         Portland St.   851.33 
+529          Austin Peay   851.23 
+530          New Orleans   851.08 
+531     A&M-Corpus Chris   850.30 
+532         Presbyterian   849.26 
+533              Citadel   848.57 
+534               Alcorn   848.05 
+535        Saint Francis   846.41 
+536              Seattle   845.83 
+537           Coppin St.   844.41 
+538                 Navy   839.88 
+539          Florida A&M   838.56 
+540                 UMKC   836.10 
+541         Old Dominion   830.07 
+542              Hofstra   825.90 
+543            Idaho St.   820.02 
+544         UC Riverside   816.53 
+545     Mississippi Val.   811.46 
+546               Furman   811.29 
+547           La.-Monroe   807.67 
+548               Howard   807.13 
+549                 Rice   805.64 
+550  Fairleigh Dickinson   802.88 
+551        Northern Ill.   801.14 
+552   South Carolina St.   796.52 
+553                IUPUI   784.48 
+554           Binghamton   768.22 
+555         Kennesaw St.   767.62 
+556                 UMES   749.11 
+557                Lamar   744.03 
+558            Grambling   690.78 
